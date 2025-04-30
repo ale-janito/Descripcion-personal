@@ -1,7 +1,7 @@
 # Descripcion-personal
 About-me
 
-Descrpción personal para agregar al perfil 
+Descripción personal para agregar al perfil 
 
 ![image](https://github.com/user-attachments/assets/8af692d4-ee53-4881-ba5f-459d03bc7163)
 
